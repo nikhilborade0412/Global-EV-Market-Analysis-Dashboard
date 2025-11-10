@@ -106,7 +106,8 @@ The **Power BI Dashboard** provides an interactive overview of global EV trends 
 - **Map Visualization:** Country-wise EV Adoption (China, USA, Europe, India, etc.)  
 - **Trend Analysis:** Year-on-year growth in EV adoption and stock  
 
-![Global EV Dashboard](images/dashboard.png)
+![Global EV Dashboard](<img width="648" height="362" alt="dashboard" src="https://github.com/user-attachments/assets/540d23c7-fa74-4a06-a451-d0b2304a43e7" />
+)
 
 ---
 
@@ -181,6 +182,7 @@ Through this project, I learned to:
 🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-borade-307747314/) | [GitHub](https://github.com/NiksNk555)
 
 ---
+
 
 
 
