@@ -18,7 +18,6 @@ _Analyzing global Electric Vehicle (EV) adoption trends and market performance u
 - <a href="#conclusion--learnings">Conclusion & Learnings</a>
 - <a href="#how-to-view-dashboard">How to View Dashboard</a>
 - <a href="#author--contact">Author & Contact</a>
-- <a href="#acknowledgment">Acknowledgment</a>
 
 ---
 
@@ -181,6 +180,7 @@ Through this project, I learned to:
 🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-borade-307747314/) | [GitHub](https://github.com/NiksNk555)
 
 ---
+
 
 
 
