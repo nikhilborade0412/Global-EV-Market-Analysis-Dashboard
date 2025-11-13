@@ -177,9 +177,10 @@ Through this project, I learned to:
 **Nikhil Borade**
 📧[Email](nikhilsborade3@gmail.com)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-borade-307747314/) | [GitHub](https://github.com/NiksNk555)
+🔗 [LinkedIn](https://www.linkedin.com/in/nikhilborade0412) | [GitHub](https://github.com/nikhilborade0412)
 
 ---
+
 
 
 
